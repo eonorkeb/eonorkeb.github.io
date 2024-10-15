@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eonorkeb.github.io/sitemap.html.gz
+Sitemap: https://eonorkeb.github.io/app/sitemap.html.gz
+Sitemap: https://eonorkeb.github.io/assets/sitemap.html.gz
+Sitemap: https://eonorkeb.github.io/css/sitemap.html.gz
+Sitemap: https://eonorkeb.github.io/includes/sitemap.html.gz
+Sitemap: https://eonorkeb.github.io/item/sitemap.html.gz
+Sitemap: https://eonorkeb.github.io/src/sitemap.html.gz
